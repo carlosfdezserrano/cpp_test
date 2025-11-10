@@ -1,0 +1,25 @@
+{
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+    "files.associations": {
+        "memory": "cpp",
+        "format": "cpp",
+        "istream": "cpp",
+        "functional": "cpp",
+        "iostream": "cpp",
+        "filesystem": "cpp",
+        "thread": "cpp",
+        "xhash": "cpp",
+        "chrono": "cpp",
+        "xstring": "cpp",
+        "xlocinfo": "cpp",
+        "future": "cpp",
+        "type_traits": "cpp",
+        "xlocmes": "cpp",
+        "xlocmon": "cpp",
+        "xlocnum": "cpp",
+        "xloctime": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Users/fdezs/Documents/Projects/cpp_interview/part2"
+}
